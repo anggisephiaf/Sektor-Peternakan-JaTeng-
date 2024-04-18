@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #EB1616;
+    --light pink: #FFB6C1;
     --secondary: #191C24;
     --light: #6C7293;
     --dark: #000000;
@@ -285,5 +285,5 @@
 
 .testimonial-carousel .owl-dot.active {
     background: var(--dark);
-    border-color: var(--primary);
+    border-color: var(--Light pink);
 }
