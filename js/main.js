@@ -93,12 +93,12 @@
         {
                 label:"Kerbau",
                 data: kerbau,
-                backgroundColor: "rgba(255,0,0,.8)"
+                backgroundColor: "rgba(255,0,0,0.8)"
         },
         {
                 label:"Babi",
                 data: babi,
-                backgroundColor: "rgba(255,0,0,.5)"
+                backgroundColor: "rgba(255,0,0,0.5)"
     },
         {
                 label:"Kambing",
